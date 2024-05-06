@@ -1,0 +1,23 @@
+.cacher {
+	display: none;
+}
+
+td {
+	border: 1px solid ;
+	height: 100px;
+	width: 100px;
+	
+}
+table, th, td {
+	border-collapse: collapse;
+	text-align: center;
+}
+#first-line {
+	border: 1px solid ;
+	height: 10px;
+}
+#l1, #l2, #l3 {
+	border: 1px solid ;
+	width: 30px;
+
+}
